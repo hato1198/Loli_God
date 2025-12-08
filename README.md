@@ -40,9 +40,9 @@ Brainfuck系言語です
 
 ロリ神とは？
 ---
-https://ja.wikipedia.org/wiki/%E7%B2%9B%E8%81%96!!_%E3%83%AD%E3%83%AA%E7%A5%9E%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0%E2%98%86
-https://www.youtube.com/watch?v=Ci_zad39Uhw
+- https://ja.wikipedia.org/wiki/%E7%B2%9B%E8%81%96!!_%E3%83%AD%E3%83%AA%E7%A5%9E%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0%E2%98%86
+- https://www.youtube.com/watch?v=Ci_zad39Uhw
 
 Brainfuckとは？
 ----
-https://ja.wikipedia.org/wiki/Brainfuck
+- https://ja.wikipedia.org/wiki/Brainfuck
